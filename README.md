@@ -29,4 +29,3 @@ Sou estudante de Engenharia de Software com grande interesse em Inteligência Ar
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ver%C3%B4nica-fernandes-66109a221/)  
-✉️ veronica9120@gmail.com
