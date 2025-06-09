@@ -2,7 +2,7 @@
 🎓 Estudante de Engenharia de Software  
 🤖 Foco em Inteligência Artificial  
 🐍 Entusiasta de Python  
-📌 Disponível para estágio na área de desenvolvimento
+📌 Disponível para Estágio/Dev.Júnior
 
 ---
 
